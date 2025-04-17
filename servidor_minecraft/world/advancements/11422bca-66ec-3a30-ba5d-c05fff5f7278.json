@@ -1777,6 +1777,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-17 03:48:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/whole_pack": {
     "criteria": {
       "minecraft:pale": "2025-04-17 02:54:58 +0000"
@@ -1786,6 +1792,12 @@
   "minecraft:recipes/building_blocks/dye_blue_carpet": {
     "criteria": {
       "has_needed_dye": "2025-04-17 02:55:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_the_recipe": "2025-04-17 03:48:05 +0000"
     },
     "done": true
   },
@@ -1819,9 +1831,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-04-17 03:48:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-04-17 03:48:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-17 03:48:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_bed": {
     "criteria": {
       "has_needed_dye": "2025-04-17 02:55:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-04-17 03:48:05 +0000"
     },
     "done": true
   },
