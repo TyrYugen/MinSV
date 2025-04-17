@@ -10,5 +10,11 @@
     "name": "EmalateMc",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "d8b14f79-89f8-3f6b-b661-b131f1c0acb8",
+    "name": "InDomiTo",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
