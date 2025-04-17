@@ -485,6 +485,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-04-17 03:59:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-04-17 03:05:25 +0000"
@@ -605,6 +611,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-04-17 04:18:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-04-17 03:52:11 +0000"
@@ -614,6 +626,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-04-17 03:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-17 04:01:01 +0000"
     },
     "done": true
   },
@@ -716,6 +734,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-04-17 03:39:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-04-17 04:00:48 +0000"
     },
     "done": true
   },
@@ -833,6 +857,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-17 04:01:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-04-17 02:58:41 +0000"
@@ -866,6 +896,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-04-17 03:50:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-04-17 03:59:19 +0000"
     },
     "done": true
   },
@@ -1219,6 +1255,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-04-17 04:18:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-17 03:10:56 +0000"
@@ -1230,7 +1272,9 @@
       "bread": "2025-04-17 03:22:49 +0000",
       "rotten_flesh": "2025-04-17 03:06:02 +0000",
       "cooked_cod": "2025-04-17 03:55:35 +0000",
-      "baked_potato": "2025-04-17 03:04:07 +0000"
+      "baked_potato": "2025-04-17 03:04:07 +0000",
+      "cooked_salmon": "2025-04-17 04:14:13 +0000",
+      "golden_carrot": "2025-04-17 04:01:30 +0000"
     },
     "done": false
   },
