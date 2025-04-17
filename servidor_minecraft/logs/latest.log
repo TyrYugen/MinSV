@@ -116,3 +116,14 @@
 [04:28:44] [Server thread/INFO]: InDomiTo drowned
 [04:36:10] [Server thread/INFO]: [TyrYugen: Teleported InDomiTo to TyrYugen]
 [04:37:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1215, y=100, z=-109} jd{x=1214, y=99, z=-107}
+[04:50:37] [Server thread/INFO]: [TyrYugen: Teleported EmalateMc to TyrYugen]
+[04:50:53] [Server thread/INFO]: [TyrYugen: Teleported EmalateMc to TyrYugen]
+[04:51:11] [Server thread/INFO]: [TyrYugen: Teleported TyrYugen to EmalateMc]
+[04:53:42] [Server thread/INFO]: EmalateMc lost connection: Timed out
+[04:53:42] [Server thread/INFO]: EmalateMc left the game
+[04:53:42] [Server thread/WARN]: handleDisconnection() called twice
+[04:54:18] [Server thread/INFO]: EmalateMc[/127.155.100.66:36397] logged in with entity id 38069 at (-402.435348730492, 67.0, 257.31333505198575)
+[04:54:18] [Server thread/INFO]: EmalateMc joined the game
+[04:56:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-419, y=64, z=256} jd{x=-419, y=62, z=257}
+[04:56:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-420, y=64, z=270} jd{x=-421, y=62, z=271}
+[04:56:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-420, y=64, z=270} jd{x=-421, y=62, z=271}
