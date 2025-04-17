@@ -7,17 +7,19 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:deep_cold_ocean": "2025-04-17 04:23:01 +0000",
       "minecraft:cold_ocean": "2025-04-17 04:24:00 +0000",
-      "minecraft:frozen_ocean": "2025-04-16 01:50:28 +0000",
+      "minecraft:snowy_slopes": "2025-04-17 04:36:05 +0000",
       "minecraft:mushroom_fields": "2025-04-17 04:21:23 +0000",
-      "minecraft:frozen_river": "2025-04-16 01:27:45 +0000",
       "minecraft:taiga": "2025-04-16 01:27:14 +0000",
-      "minecraft:deep_frozen_ocean": "2025-04-17 04:20:36 +0000",
       "minecraft:stony_shore": "2025-04-17 04:26:49 +0000",
       "minecraft:lush_caves": "2025-04-16 02:00:07 +0000",
       "minecraft:snowy_taiga": "2025-04-16 01:19:18 +0000",
-      "minecraft:snowy_beach": "2025-04-16 01:25:25 +0000"
+      "minecraft:deep_cold_ocean": "2025-04-17 04:23:01 +0000",
+      "minecraft:frozen_ocean": "2025-04-16 01:50:28 +0000",
+      "minecraft:frozen_river": "2025-04-16 01:27:45 +0000",
+      "minecraft:deep_frozen_ocean": "2025-04-17 04:20:36 +0000",
+      "minecraft:snowy_beach": "2025-04-16 01:25:25 +0000",
+      "minecraft:plains": "2025-04-17 04:33:28 +0000"
     },
     "done": false
   },
@@ -477,6 +479,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "mutton": "2025-04-16 02:51:56 +0000",
+      "chicken": "2025-04-17 04:35:58 +0000",
       "rotten_flesh": "2025-04-16 01:53:55 +0000",
       "cooked_mutton": "2025-04-16 02:08:36 +0000",
       "glow_berries": "2025-04-17 04:04:35 +0000",
@@ -1013,6 +1016,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-04-17 04:34:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-17 04:19:42 +0000"
@@ -1058,6 +1067,12 @@
   "minecraft:recipes/building_blocks/polished_tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-04-17 04:17:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-04-17 04:34:39 +0000"
     },
     "done": true
   },
@@ -1142,6 +1157,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-04-17 03:59:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-04-17 04:30:18 +0000"
     },
     "done": true
   },
