@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:cold_ocean": "2025-04-17 04:24:00 +0000",
       "minecraft:snowy_slopes": "2025-04-17 04:36:05 +0000",
+      "minecraft:beach": "2025-04-18 05:20:54 +0000",
       "minecraft:mushroom_fields": "2025-04-17 04:21:23 +0000",
       "minecraft:taiga": "2025-04-16 01:27:14 +0000",
       "minecraft:river": "2025-04-18 04:13:44 +0000",
@@ -1899,6 +1900,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-04-18 04:02:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-04-18 05:25:43 +0000"
     },
     "done": true
   },
