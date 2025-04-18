@@ -155,6 +155,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-18 02:24:19 +0000",
+      "minecraft:breeze": "2025-04-18 04:38:13 +0000",
       "minecraft:enderman": "2025-04-18 04:24:55 +0000",
       "minecraft:spider": "2025-04-18 03:52:14 +0000",
       "minecraft:zombie": "2025-04-18 02:38:30 +0000",
@@ -1240,6 +1241,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wind_charge": {
+    "criteria": {
+      "has_breeze_rod": "2025-04-18 04:38:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_carpet": {
     "criteria": {
       "has_needed_dye": "2025-04-18 03:39:49 +0000"
@@ -1819,6 +1826,12 @@
   "minecraft:recipes/building_blocks/tuff_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-04-18 03:29:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/mace": {
+    "criteria": {
+      "has_breeze_rod": "2025-04-18 04:38:15 +0000"
     },
     "done": true
   },
