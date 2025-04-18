@@ -1045,6 +1045,7 @@
       "minecraft:skeleton": "2025-04-16 01:20:08 +0000",
       "minecraft:breeze": "2025-04-18 03:53:06 +0000",
       "minecraft:enderman": "2025-04-16 00:50:52 +0000",
+      "minecraft:silverfish": "2025-04-18 04:06:09 +0000",
       "minecraft:spider": "2025-04-16 00:40:14 +0000",
       "minecraft:zombie": "2025-04-16 00:52:58 +0000",
       "minecraft:creeper": "2025-04-16 00:40:49 +0000",
@@ -2493,6 +2494,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-04-18 03:57:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_bricks_stonecutting": {
     "criteria": {
       "has_tuff_bricks": "2025-04-18 03:50:52 +0000"
@@ -2502,6 +2509,12 @@
   "minecraft:adventure/under_lock_and_key": {
     "criteria": {
       "under_lock_and_key": "2025-04-18 03:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2025-04-18 04:00:54 +0000"
     },
     "done": true
   },
@@ -2532,6 +2545,12 @@
   "minecraft:recipes/misc/sugar_from_honey_bottle": {
     "criteria": {
       "has_honey_bottle": "2025-04-18 03:51:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-04-18 03:57:27 +0000"
     },
     "done": true
   },
@@ -2586,6 +2605,18 @@
   "minecraft:recipes/building_blocks/waxed_oxidized_copper_grate_from_waxed_oxidized_copper_stonecutting": {
     "criteria": {
       "has_waxed_oxidized_copper": "2025-04-18 03:51:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-04-18 03:57:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-04-18 04:01:01 +0000"
     },
     "done": true
   },
