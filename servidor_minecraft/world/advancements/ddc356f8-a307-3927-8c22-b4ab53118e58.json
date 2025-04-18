@@ -155,8 +155,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-18 02:24:19 +0000",
+      "minecraft:enderman": "2025-04-18 04:24:55 +0000",
       "minecraft:spider": "2025-04-18 03:52:14 +0000",
-      "minecraft:zombie": "2025-04-18 02:38:30 +0000"
+      "minecraft:zombie": "2025-04-18 02:38:30 +0000",
+      "minecraft:slime": "2025-04-18 04:31:22 +0000"
     },
     "done": false
   },
@@ -1118,6 +1120,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/minecraft_trials_edition": {
+    "criteria": {
+      "minecraft_trials_edition": "2025-04-18 04:26:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-04-18 03:29:24 +0000"
@@ -1223,6 +1231,12 @@
   "minecraft:recipes/decorations/polished_tuff_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-04-18 03:29:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-04-18 04:35:26 +0000"
     },
     "done": true
   },
@@ -1502,6 +1516,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2025-04-18 04:28:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-18 03:29:26 +0000"
@@ -1559,6 +1579,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2025-04-18 03:30:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-18 04:33:11 +0000"
     },
     "done": true
   },
@@ -1655,6 +1681,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-04-18 03:39:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-04-18 04:35:26 +0000"
     },
     "done": true
   },
@@ -1931,6 +1963,12 @@
   "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-04-18 03:29:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-04-18 04:35:26 +0000"
     },
     "done": true
   },
